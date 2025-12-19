@@ -26,5 +26,5 @@ WatchIT v2 is a serverless web scraping and price analysis engine built on the *
 ### 1. Clone & Install
 ```bash
 git clone [https://github.com/your-username/watchit-v2.git](https://github.com/your-username/watchit-v2.git)
-cd watchit-v2
+cd Trend-scraperV2
 npm install
