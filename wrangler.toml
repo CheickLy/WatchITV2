@@ -1,0 +1,18 @@
+name = "watchit-v2"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+compatibility_flags = [ "nodejs_compat" ]
+
+[[durable_objects.bindings]]
+name = "WATCHER"
+class_name = "WatcherV7"
+
+[[migrations]]
+tag = "v7"
+new_sqlite_classes = ["WatcherV7"]
+
+[browser]
+binding = "MYBROWSER"
+
+[ai]
+binding = "AI"
