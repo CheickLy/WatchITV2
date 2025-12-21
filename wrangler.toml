@@ -1,4 +1,4 @@
-name = "watchit-v2"
+name = "watchitv2"
 main = "src/index.ts"
 compatibility_date = "2024-12-01"
 compatibility_flags = [ "nodejs_compat" ]
