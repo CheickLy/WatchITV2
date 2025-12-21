@@ -5,6 +5,7 @@ WatchIT v2 is a serverless web scraping and price analysis engine built on the *
 # **Try It Now!!** 
 https://watchitv2.lyche-tracker.workers.dev
 
+**Scrape website** https://books.toscrape.com/index.html
 
 ## 🚀 Key Features
 
