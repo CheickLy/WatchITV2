@@ -2,6 +2,8 @@
 
 WatchIT v2 is a serverless web scraping and price analysis engine built on the **Cloudflare Edge**. It leverages headless browser automation to track product pricing, stores data in an isolated **SQLite-backed Durable Object** per product, and uses **Llama-3 LLMs** to provide instant market insights.
 
+# **Try It Now!!** 
+https://watchitv2.lyche-tracker.workers.dev
 
 
 ## 🚀 Key Features
