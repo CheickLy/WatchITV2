@@ -28,7 +28,7 @@ app.get('/', (c) => {
         <p style="text-align:center; color:#666; margin-bottom:25px;">Search any book on the sandbox site</p>
         
         <label style="font-weight:bold; font-size:14px;">Book Title</label>
-        <input type="text" id="bookSearch" placeholder="e.g. 'Dracula' or 'Light'" 
+        <input type="text" id="bookSearch" placeholder="e.g. 'A Light in the Attic'" 
                style="width:100%; padding:14px; margin:8px 0 20px 0; border-radius:8px; border:1px solid #ddd; box-sizing:border-box; font-size:16px;">
         
         <button id="btnScrape" onclick="run()" style="width:100%; padding:15px; background:#1a73e8; color:white; border:none; border-radius:12px; cursor:pointer; font-weight:bold; transition: 0.2s;">🔍 Search & Scrape</button>
